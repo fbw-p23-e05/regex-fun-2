@@ -3,28 +3,28 @@
 
 2. Write a Python program to search for numbers (0-9) of length between 1 and 3 in the given string.
 
-"Exercises number 1, 12, 13, and 345 are important"
+  "Exercises number 1, 12, 13, and 345 are important"
 
 3. Write a Python program to search for literal strings within a string.
-Sample text : 'The quick brown fox jumps over the lazy dog.'
-Searched words : 'fox', 'dog', 'horse'
+  Sample text : 'The quick brown fox jumps over the lazy dog.'
+  Searched words : 'fox', 'dog', 'horse'
 
 4. Write a Python program to search for a literal string in a string and also find the location within the original string where the pattern occurs.
 
-Sample text : 'The quick brown fox jumps over the lazy dog.'
-Searched words : 'fox'
+  Sample text : 'The quick brown fox jumps over the lazy dog.'
+  Searched words : 'fox'
 
 5. Write a Python program to find the substrings within a string.
 
-Sample text :
-
-'Python exercises, PHP exercises, C# exercises'
-
-Pattern :
-
-'exercises'
-
-Note: There are two instances of exercises in the input string.
+  Sample text :
+  
+  'Python exercises, PHP exercises, C# exercises'
+  
+  Pattern :
+  
+  'exercises'
+  
+  Note: There are two instances of exercises in the input string.
 
 6. Write a Python program to find the occurrence and position of substrings within a string.
 
